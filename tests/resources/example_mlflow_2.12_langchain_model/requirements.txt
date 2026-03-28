@@ -1,7 +1,7 @@
 bcrypt==3.2.0
 cloudpickle==2.0.0
 configparser==5.2.0
-cryptography==44.0.1
+cryptography==46.0.6
 databricks-feature-engineering==0.2.1
 databricks-rag-studio==0.2.0.dev0
 entrypoints==0.4
@@ -17,5 +17,5 @@ psutil==5.9.0
 pyarrow==8.0.0
 pydantic==1.10.6
 pyyaml==6.0
-requests==2.28.1
+requests==2.33.0
 tornado==6.4.2

@@ -107,7 +107,7 @@ contourpy==1.3.0
     # via matplotlib
 coverage[toml]==7.6.4
     # via pytest-cov
-cryptography==44.0.1
+cryptography==46.0.6
     # via
     #   azure-identity
     #   azure-storage-blob
@@ -516,7 +516,7 @@ regex==2024.9.11
     # via
     #   nltk
     #   tiktoken
-requests==2.32.3
+requests==2.33.0
     # via
     #   -r skinny-requirements.txt
     #   azure-core
